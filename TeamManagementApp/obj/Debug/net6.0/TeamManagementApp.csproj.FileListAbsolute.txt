@@ -1,0 +1,43 @@
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.exe
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.deps.json
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.runtimeconfig.json
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.dll
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.pdb
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.csproj.AssemblyReference.cache
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.AssemblyInfoInputs.cache
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.AssemblyInfo.cs
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.dll
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\refint\TeamManagementApp.dll
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.pdb
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.genruntimeconfig.cache
+C:\Users\aroy0\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\ref\TeamManagementApp.dll
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.exe
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.deps.json
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.runtimeconfig.json
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.dll
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.pdb
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.AssemblyInfoInputs.cache
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.AssemblyInfo.cs
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.dll
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\refint\TeamManagementApp.dll
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.pdb
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.genruntimeconfig.cache
+C:\Users\Arkadeep\Downloads\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\ref\TeamManagementApp.dll
+E:\Phase 2\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.exe
+E:\Phase 2\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.deps.json
+E:\Phase 2\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.runtimeconfig.json
+E:\Phase 2\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.dll
+E:\Phase 2\TeamManagementApp\TeamManagementApp\bin\Debug\net6.0\TeamManagementApp.pdb
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.AssemblyInfoInputs.cache
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.AssemblyInfo.cs
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.csproj.CoreCompileInputs.cache
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.dll
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\refint\TeamManagementApp.dll
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.pdb
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\TeamManagementApp.genruntimeconfig.cache
+E:\Phase 2\TeamManagementApp\TeamManagementApp\obj\Debug\net6.0\ref\TeamManagementApp.dll
